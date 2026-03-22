@@ -12,14 +12,6 @@ I build scalable SaaS platforms, AI-powered tools, and high-performance backend 
 
 ---
 
-# 🚀 MAIN GITHUB PROFILE
-
-<h2 align="center">
-<a href="https://github.com/lalitkumarjangid">
-github.com/lalitkumarjangid
-</a>
-</h2>
-
 <p align="center">
 ⭐ Explore my repositories and projects here ⭐
 </p>
