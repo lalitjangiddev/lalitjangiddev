@@ -42,11 +42,11 @@ I specialize in designing **production backend systems**, deploying **cloud infr
 
 <p align="center">
 
-<a href="https://github.com/lalitkumarjangid">
+<a href="https://github.com/lalitjangiddev">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/lalitkumarjangid">
+<a href="https://linkedin.com/in/lalitjangiddev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
