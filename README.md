@@ -56,7 +56,7 @@ I specialize in designing **production backend systems**, deploying **cloud infr
 
 # 💼 Experience
 
-## 🚀 Founding Engineer
+## 🚀 Full Stack Engineer
 
 ### Cresca Marketing Automation (SaaS Platform)
 
@@ -74,7 +74,7 @@ I specialize in designing **production backend systems**, deploying **cloud infr
 
 ## 💻 Full Stack Developer
 
-### Guru Ji Astro Platform
+### Stleath Startup
 
 • Built REST APIs serving **5,000+ daily users**
 
